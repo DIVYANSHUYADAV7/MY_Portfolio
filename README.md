@@ -23,7 +23,7 @@ It is designed to provide a clean, interactive, and responsive interface to pres
 ---
 
 ## 🌐 Live Demo
-https://divyanshuyadav7.github.io/MY_Portfolio/
+https://divyanshuyadav7.github.io/MY_Portfolio/personalportfolioproject.html
 
 
 ---
